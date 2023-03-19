@@ -15,6 +15,48 @@
       "description": "Film d'horreur scream",
       "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/2.jpg",
       "stream_url": "https://www.uqload.co/embed-nuf2wyl4mwah.html"
+    },
+    {
+      "id": 1,
+      "title": "Avatar",
+      "description": "Avatar 2",
+      "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/1.jpg",
+      "stream_url": "https://www.uqload.co/embed-nuf2wyl4mwah.html"
+    },
+    {
+      "id": 2,
+      "title": "Scream",
+      "description": "Film d'horreur scream",
+      "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/2.jpg",
+      "stream_url": "https://www.uqload.co/embed-nuf2wyl4mwah.html"
+    },
+    {
+      "id": 1,
+      "title": "Avatar",
+      "description": "Avatar 2",
+      "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/1.jpg",
+      "stream_url": "https://www.uqload.co/embed-nuf2wyl4mwah.html"
+    },
+    {
+      "id": 2,
+      "title": "Scream",
+      "description": "Film d'horreur scream",
+      "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/2.jpg",
+      "stream_url": "https://www.uqload.co/embed-nuf2wyl4mwah.html"
+    },
+    {
+      "id": 1,
+      "title": "Avatar",
+      "description": "Avatar 2",
+      "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/1.jpg",
+      "stream_url": "https://www.uqload.co/embed-nuf2wyl4mwah.html"
+    },
+    {
+      "id": 2,
+      "title": "Scream",
+      "description": "Film d'horreur scream",
+      "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/2.jpg",
+      "stream_url": "https://www.uqload.co/embed-nuf2wyl4mwah.html"
     }
   ]
 }
