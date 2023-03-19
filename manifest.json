@@ -2,31 +2,10 @@
   "movies": [
     {
       "id": 1,
-      "title": "Titre",
-      "description": "Description",
-      "img_url": "img/1.png",
-      "stream_url": "Url"
-    },
-    {
-      "id": 2,
-      "title": "Titre du film",
-      "description": "Description du film",
-      "img_url": "https://github.com/guillaumevd/streaming_manifest/main/img/2.png",
+      "title": "Avatar",
+      "description": "Avatar 2",
+      "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/1.jpg",
       "stream_url": "Url de la video"
-    },
-    {
-      "id": 3,
-      "title": "Titre",
-      "description": "Description",
-      "img_url": "https://github.com/guillaumevd/streaming_manifest/main/img/3.png",
-      "stream_url": "Url"
-    },
-    {
-      "id": 4,
-      "title": "Titre",
-      "description": "Description",
-      "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/4.png",
-      "stream_url": "Url"
     }
   ]
 }
