@@ -6,6 +6,13 @@
       "description": "Description",
       "img_url": "img/1.png",
       "stream_url": "Url"
+    },
+    {
+      "id": 2,
+      "title": "Titre du film",
+      "description": "Description du film",
+      "img_url": "https://github.com/guillaumevd/streaming_manifest/img/2.png",
+      "stream_url": "Url de la video"
     }
   ]
 }
