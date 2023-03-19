@@ -1,4 +1,6 @@
 {
+  "maintenance": false,
+  "maintenance_message": "Pears Streaming est en maintenance.<br>Merci de bien vouloir essayer ultérieurement.",
   "movies": [
     {
       "id": 1,
