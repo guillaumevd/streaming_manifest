@@ -4,7 +4,7 @@
   "movies": [
     {
       "id": 1,
-      "title": "Avatar",
+      "title": "Avatarr",
       "description": "Description de Avatar 2",
       "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/1.jpg",
       "stream_url": "https://www.youtube.com/embed/d9MyW72ELq0"
