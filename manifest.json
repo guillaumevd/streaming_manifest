@@ -1,0 +1,11 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Titre",
+      "description": "Description",
+      "img_url": "img/1.png",
+      "stream_url": "Url"
+    }
+  ]
+}
