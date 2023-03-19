@@ -1,27 +1,20 @@
 {
-  "maintenance": true,
-  "maintenance_message": "Pears Streaming est en maintenance.<br>Merci de bien vouloir essayer ult\u00c3\u00a9rieurement.",
-  "movies": [
-    {
-      "id": 1,
-      "title": "Avatarr",
-      "description": "Description de Avatar 2",
-      "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/1.jpg",
-      "stream_url": "https://www.youtube.com/embed/d9MyW72ELq0"
-    },
-    {
-      "id": 2,
-      "title": "Scream",
-      "description": "Film d'horreur scream",
-      "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/2.jpg",
-      "stream_url": "https://www.youtube.com/embed/i3J6ACKQ7K0"
-    },
-    {
-      "id": 3,
-      "title": "Titanic",
-      "description": "Description de titanic",
-      "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/3.jpg",
-      "stream_url": "https://www.youtube.com/embed/I7c1etV7D7g"
-    }
-  ]
+    "maintenance": true,
+    "maintenance_message": "Pears Streaming est en maintenance.<br>Merci de bien vouloir essayer ult\u00c3\u00a9rieurement.",
+    "movies": [
+        {
+            "id": 1,
+            "title": "Avatarr",
+            "description": "Description de Avatar 2",
+            "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/1.jpg",
+            "stream_url": "https://www.youtube.com/embed/d9MyW72ELq0"
+        },
+        {
+            "id": 2,
+            "title": "Scream",
+            "description": "Film d'horreur scream",
+            "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/2.jpg",
+            "stream_url": "https://www.youtube.com/embed/i3J6ACKQ7K0"
+        }
+    ]
 }
