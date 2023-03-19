@@ -6,6 +6,13 @@
       "description": "Avatar 2",
       "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/1.jpg",
       "stream_url": "Url de la video"
+    },
+    {
+      "id": 2,
+      "title": "Scream",
+      "description": "Film d'horreur scream",
+      "img_url": "https://raw.githubusercontent.com/guillaumevd/streaming_manifest/main/img/2.jpg",
+      "stream_url": "url de la video"
     }
   ]
 }
